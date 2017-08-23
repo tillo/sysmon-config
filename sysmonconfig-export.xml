@@ -5,9 +5,9 @@
   Master project:	https://github.com/SwiftOnSecurity/sysmon-config
   Master license:	Creative Commons Attribution 4.0 | You may privatize, fork, edit, teach, publish, or deploy for commercial use - with attribution in the text.
 
-  Fork version:	1
+  Fork version:	2 | Date: 2017-08-23
   Fork author:	Martino Dell'Ambrogio
-  Fork project:	Baseline_WEF
+  Fork project:	alt1
   Fork license:	Creative Commons Attribution 4.0 | You may privatize, fork, edit, teach, publish, or deploy for commercial use - with attribution in the text.
  
   REQUIRED: Sysmon version 6.00 or higher (due to changes in registry syntax)
