@@ -4,6 +4,8 @@ This is a Microsoft Sysinternals Sysmon configuration file template with default
 
 The file provided should function as a great starting point for system change monitoring in a self-contained package. This configuration and results should give you a good idea of what's possible for Sysmon. Note that this does not track things like authentication and other Windows events that are also vital for incident investigation.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[See @tillo sysmonconfig-export.xml](https://github.com/tillo/sysmon-config/blob/tillo/sysmonconfig-export.xml)**
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[sysmonconfig-export.xml](https://github.com/SwiftOnSecurity/sysmon-config/blob/master/sysmonconfig-export.xml)**
 
 Because virtually every line is commented and sections are marked with explanations, it should also function as a tutorial for Sysmon and a guide to critical monitoring areas in Windows systems.
