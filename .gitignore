@@ -2,3 +2,6 @@ sysmonconfig-export.xml.bak
 sysmonconfignxg.txt
 sysmon.exe
 readme.csv
+*.exe
+*.cfg
+*.zip
