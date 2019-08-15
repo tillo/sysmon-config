@@ -10,3 +10,9 @@ git merge
 git commit
 git branch -u origin/master
 git push
+
+And how to synchronise each version
+
+git checkout altN
+git merge master
+git push
